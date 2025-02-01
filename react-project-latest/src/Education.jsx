@@ -19,6 +19,11 @@ function Education() {
             <p>May 2027</p> 
 
             </div>
+
+            <div id="GPA">
+            <p>GPA: /4.0</p>
+            
+            </div>
         </div>
     )
 }
