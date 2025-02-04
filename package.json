@@ -1,0 +1,44 @@
+{
+  "name": "react-practice-latest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browserslist": "^4.24.4",
+    "caniuse-lite": "^1.0.30001696",
+    "convert-source-map": "^2.0.0",
+    "debug": "^4.4.0",
+    "electron-to-chromium": "^1.5.90",
+    "escalade": "^3.2.0",
+    "gensync": "^1.0.0-beta.2",
+    "globals": "^11.12.0",
+    "js-tokens": "^4.0.0",
+    "jsesc": "^3.1.0",
+    "json5": "^2.2.3",
+    "lru-cache": "^5.1.1",
+    "ms": "^2.1.3",
+    "node-releases": "^2.0.19",
+    "picocolors": "^1.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "semver": "^6.3.1",
+    "start": "^5.1.0",
+    "update-browserslist-db": "^1.1.2",
+    "web-vitals": "^4.2.4",
+    "yallist": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardikMarlapudi/react-practice-latest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardikMarlapudi/react-practice-latest/issues"
+  },
+  "homepage": "https://github.com/HardikMarlapudi/react-practice-latest#readme"
+}

@@ -1,6 +1,6 @@
-import React from 'react'
-import './main.jsx'
-import './Teaching&Technical.css'
+import React from 'react';
+import './main.jsx';
+
 
 function TechnicalExperience() {
     
