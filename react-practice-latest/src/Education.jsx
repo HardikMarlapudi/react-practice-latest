@@ -2,8 +2,6 @@ import React from 'react';
 import './Education.css';
 import './main.jsx'
 
-
-
 function Education() {
 
     return (
