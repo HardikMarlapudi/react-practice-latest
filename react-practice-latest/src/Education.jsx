@@ -19,7 +19,10 @@ function Education() {
 
             <div id="graduate-year">
             <p>May 2027</p> 
+            </div>
 
+            <div id="gpa">
+                <p>GPA: -- /4.0</p>
             </div>
         </div>
     )

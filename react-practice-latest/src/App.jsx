@@ -7,7 +7,6 @@ export default function App() {
   return (
     <div className="title">
       <h1>Hardik Marlapudi</h1>
-      
     </div>
   )
 }

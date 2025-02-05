@@ -1,6 +1,10 @@
 
+h1 {
+    text-decoration: underline;
+}
+
 #objective {
-    display: block;
+    display: inline-block;
     font-size: 15px;
 }
 

@@ -8,7 +8,7 @@ import Subtitle from './Subtitle.jsx'
 import Objective from './Objective.jsx'
 import Education from './Education.jsx'
 import TechnicalSkills from './TechncialSkills.jsx'
-import TechnicalExperience from './TechnicalExperience.jsx'
+import TechnicalExperience from './TechnicalExperience.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <StrictMode>

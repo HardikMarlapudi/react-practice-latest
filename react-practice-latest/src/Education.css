@@ -1,4 +1,9 @@
 
+h2 {
+    display: block;
+    align-items: center;
+}
+
 #name-of-school {
     font-weight: bold;
 }
@@ -10,5 +15,5 @@
 
 #gpa {
     display: flex;
-    align-items: top-right;
+    align-items: top-left;
 }
