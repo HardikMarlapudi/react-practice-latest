@@ -7,7 +7,7 @@ function TechnicalSkills() {
         <>
         <div className="TechnicalSkills">
 
-        <h2>Technical Skills</h2>
+        <center><h2>Technical Skills</h2></center>
         <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
         <h3>Programming Languages and Technologies:</h3> <p>HTML, CSS, JavaScript, Java, React, and Python.</p>

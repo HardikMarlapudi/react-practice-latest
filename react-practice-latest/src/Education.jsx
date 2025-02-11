@@ -2,13 +2,12 @@ import React from 'react';
 import './Education.css';
 import './main.jsx'
 
-
 function Education() {
 
     return (
         
         <div class="education">
-            <h2>Education</h2>
+            <center><h2>Education</h2></center>
             <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
             <div id="name-of-school">
             <p>University of South Carolina - Columbia, SC</p>

@@ -7,6 +7,7 @@ import Objective from './Objective.jsx';
 import Education from './Education';
 import reportWebVitals from './reportWebVitals';
 import TechnicalSkills from './TechncialSkills.jsx';
+import TechnicalExperience from './TechnicalExperience.jsx';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,6 +18,7 @@ root.render(
     <Objective />
     <Education />
     <TechnicalSkills />
+    <TechnicalExperience/>
   </React.StrictMode>
 );
 

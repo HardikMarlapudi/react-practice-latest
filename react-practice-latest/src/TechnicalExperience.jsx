@@ -8,7 +8,7 @@ function TechnicalExperience() {
         <>
 
         <div id = "teaching-technical">
-            <h2>Teaching & Technical</h2>
+        <center><h2>Teaching & Technical</h2></center>
         </div>
 
         <ul>
