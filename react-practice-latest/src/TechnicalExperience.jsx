@@ -1,7 +1,6 @@
 import React from 'react';
 import './main.jsx';
 
-
 function TechnicalExperience() {
     
     return (
@@ -13,7 +12,6 @@ function TechnicalExperience() {
 
         <ul>
             <li>UofSC Cybersecurity Club</li>
-            <li>Teaching Assistant: CSCE 146</li>
             
         </ul>
         </>
