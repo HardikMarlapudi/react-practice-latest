@@ -3,7 +3,6 @@ import './Education.css';
 import './main.jsx'
 
 
-
 function Education() {
 
     return (
@@ -18,7 +17,7 @@ function Education() {
         
 
             <div id="graduate-year">
-            <p>May 2027</p> 
+            <p>Graduated form College: May 2027</p> 
 
             </div>
         </div>
