@@ -1,7 +1,11 @@
+* {
+  background-color: antiquewhite;
+}
 
 h1 {
   display: block;
   text-align: center;
   font-family: 'Arial', Times, serif;
   font-size: 30px;
+  position: relative;
 }
